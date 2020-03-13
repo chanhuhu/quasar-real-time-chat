@@ -1,6 +1,6 @@
-# chat (chat)
+# Real time chat
 
-chat
+final project for OOSE subject
 
 ## Install the dependencies
 ```bash
