@@ -1,0 +1,47 @@
+{
+  "users": {
+    "ST2cMV6978ZAZRPU6x6dFL1Isaf1": {
+      "email": "qingqing@test.com",
+      "name": "QingQing",
+      "online": false
+    },
+    "iZEhFyOVJbehYDeyM0TIdJhkMao2": {
+      "email": "john@test.com",
+      "name": "John",
+      "online": false
+    },
+    "ugHvOVXoaiRxzsPgErfQMV3IiaS2": {
+      "email": "eingeing@test.com",
+      "name": "EingEing",
+      "online": false
+    }
+
+
+  },
+  "chats": {
+    "ST2cMV6978ZAZRPU6x6dFL1Isaf1": {
+      "iZEhFyOVJbehYDeyM0TIdJhkMao2": {
+        "MESSAGEID1": {
+          "text": "Hi how are you?",
+          "from": "them"
+        },
+        "MESSAGEID2": {
+          "text": "Good thanks, how are you?",
+          "from": "me"
+        }
+      }
+    },
+    "iZEhFyOVJbehYDeyM0TIdJhkMao2": {
+      "ST2cMV6978ZAZRPU6x6dFL1Isaf1": {
+        "MESSAGEID1": {
+          "text": "Hi how are you?",
+          "from": "me"
+        },
+        "MESSAGEID2": {
+          "text": "Good thanks, how are you?",
+          "from": "them"
+        }
+      }
+    }
+  }
+}
